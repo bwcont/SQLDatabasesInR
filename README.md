@@ -1,8 +1,9 @@
 SQLDatabasesInR
 =====
 Practice using Datacamp.com and Codeacademy.com
-<br/>
+<br/><br/>
+
 **CONTENTS**<br/>
-<br/>
+
 
 - PracticeDatabaseConnection.R

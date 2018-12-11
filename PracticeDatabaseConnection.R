@@ -1,7 +1,8 @@
 #load the package to let you access your db
 library(RMySQL)
 
-#connect to your database
+#connect to your database 
+#Public db from Datacamp
 connect <- dbConnect( RMySQL::MySQL(),
                       dbname = "company",
                       host = 'courses.csrrinzqubik.us-east-1.rds.amazonaws.com',
